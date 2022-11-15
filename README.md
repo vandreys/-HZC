@@ -1,6 +1,6 @@
 # HZC
 
-https://vandreys.github.io/-HZC/
+https://vandreys.github.io/.HZC/
 
 ## Sobre o Projeto
 
